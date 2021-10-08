@@ -1,6 +1,3 @@
-
-![Frame 28](https://user-images.githubusercontent.com/77648727/112774521-d09ef980-8fee-11eb-80c4-94ebd8b11567.png)
-
 ## Name
 
 ### README.md Generator 🤓
