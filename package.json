@@ -1,0 +1,14 @@
+{
+  "name": "redme-generator",
+  "version": "1.0.0",
+  "description": "A tool to create a README.md for all projects with node.js and inquirer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Romano",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
