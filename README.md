@@ -9,8 +9,6 @@ A node.js program that shows a user a series of inquirer-driven questions and cr
 - [x] HTML / Markdown
 - [x] Node.js
 - [x] Inquirer
-- [x] Axios
-- [x] Util
 
 ### Installation & Usage
 
@@ -26,10 +24,10 @@ Check under "written" for your new README.md file output.
 
 #### Demo
 
-<img width="1074" alt="">
+<img width="1074" alt="./assets/screenshot.png">
 
 
-Large file, so see here: [Video of demo]() or reference in the assets file.
+Large file, so see here: [Video of demo](./assets/screenshot.png) or reference in the assets file.
     
 #### User Story 📖
 
