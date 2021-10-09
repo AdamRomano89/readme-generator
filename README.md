@@ -26,7 +26,7 @@ Check under "written" for your new README.md file output.
 
 <img alt="Project Screenshot" src="assets/screenshot.png">
 
-Large file, so see here: [Video of demo]<iframe src="assets/video"></iframe>
+Large file, so see here: [Video of demo]<iframe src="assets/video.mov"></iframe>
     
 #### User Story 📖
 
