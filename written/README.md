@@ -15,13 +15,13 @@
 
 ### Description 💡 <a name="description"></a>
 
-This project is to capture the user input then create a readme.md file 
+This project will capture the user input to generate a README.md file 
 
 ### Installation 💾 <a name="installation"></a>
 
 Here's how you setup this project:<br />
 
-install inquirer  
+install Inquirer  
 
 ### Toolkit 🧰 <a name="toolkit"></a>
 
@@ -33,11 +33,11 @@ This application is covered by the MIT license.
 
 ### Usage 💥 <a name="usage"></a> 
 
-You can use the porject just not for commercial use 
+For personal use only. 
 
 ### Tests 💎  <a name="tests"></a> 
 
-console log testing 
+Console Log Testing 
 
 ### Contributing 🤝 <a name="contributing"></a> 
 
