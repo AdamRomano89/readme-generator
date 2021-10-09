@@ -24,10 +24,10 @@ Check under "written" for your new README.md file output.
 
 #### Demo
 
-<img width="1074" alt="./assets/screenshot.png">
+<img width="1074" alt="/assets/screenshot.png">
 
 
-Large file, so see here: [Video of demo](./assets/screenshot.png) or reference in the assets file.
+Large file, so see here: [Video of demo](/assets/screenshot.png) or reference in the assets file.
     
 #### User Story 📖
 
